@@ -1,5 +1,11 @@
 # ÉLARA
 
-Tienda de moda femenina con imágenes generadas, carrusel animado, tallas y bolsa de compras persistente.
+Tienda de moda femenina con imágenes generadas, carrusel animado, selección de tallas y bolsa de compras persistente.
 
-Sitio estático de demostración, sin pagos ni pedidos reales. Publicación mediante GitHub Pages desde main / raíz.
+## Publicación
+GitHub Pages: rama `main`, carpeta `/ (root)`.
+
+## Desarrollo
+Sitio estático: servir este directorio con cualquier servidor web. No requiere instalación ni compilación.
+
+Demostración: no procesa pagos ni pedidos reales.
